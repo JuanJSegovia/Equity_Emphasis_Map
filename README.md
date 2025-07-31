@@ -23,8 +23,10 @@ ________________________________________
     o	State borders and tract outlines for clarity.
   
   •	Interactive Folium Maps:
-  -[Alaska] https://juanjsegovia.github.io/Equity_Emphasis_Map/Maps/interactive_alaska_map.html
-  -[Hawaii] https://juanjsegovia.github.io/Equity_Emphasis_Map/Maps/interactive_hawaii_map.html
+  
+  - [Alaska] https://juanjsegovia.github.io/Equity_Emphasis_Map/Maps/interactive_alaska_map.html
+    
+  - [Hawaii] https://juanjsegovia.github.io/Equity_Emphasis_Map/Maps/interactive_hawaii_map.html
 
   
     o	Hover tooltips display key equity metrics:
