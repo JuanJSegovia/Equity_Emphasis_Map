@@ -23,6 +23,8 @@ ________________________________________
     o	State borders and tract outlines for clarity.
   
   •	Interactive Folium Maps:
+
+  - [US] https://juanjsegovia.github.io/Equity_Emphasis_Map/Maps/interactive_us_map.html
   
   - [Alaska] https://juanjsegovia.github.io/Equity_Emphasis_Map/Maps/interactive_alaska_map.html
     
